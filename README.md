@@ -1,3 +1,5 @@
-Ol· meu nome È ivanildo Ribeiro e este È um repositÛrio feito para o bootCamp da Wipro realizado pela Gama Academy!
+Ol√° meu nome √© ivanildo Ribeiro e este √© um reposit√≥rio feito para o bootCamp da Wipro realizado pela Gama Academy!
 
-Ao longo da aprendizagem eu e minha equipe iremos inserindo os resultados aqui neste README.
+![image](https://user-images.githubusercontent.com/75269330/162482582-f3dafb6c-23ba-450d-8d8f-24b84ff1cff2.png)
+
+Ao longo do tempo todas as atividades ser√£o postadas neste reposit√≥rio.
